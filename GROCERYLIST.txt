@@ -1,0 +1,17 @@
+---------------------
+------ SAFEWAY ------
+---------------------
+Bread	10 		Note1                  
+Coke 	100		Don't drink all at once
+
+------------------
+----- TARGET -----
+------------------
+Milk  	2		Note2
+Cheese	1		     
+
+
+  
+
+Eggs	99		Another note
+
